@@ -49,12 +49,12 @@ html, body {
     height: 10%;
     margin-top: 2%;
     position: absolute;
-    bottom: 0;
+    bottom: -1.4%;
     width: 100%;
 }
 .main {
     float: left;
-    margin: 20%;
+    margin: 0%;
     width: 50%;
     
     overflow: hidden;

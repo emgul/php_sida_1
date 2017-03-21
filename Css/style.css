@@ -78,3 +78,6 @@ html, body {
     float: right;
     overflow: hidden;
 }
+.total {
+    width: 100%;
+}
